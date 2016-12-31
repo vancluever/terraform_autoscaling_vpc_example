@@ -40,6 +40,8 @@ The modules we make use of are:
 
 All you need to use this repo is [Terraform itself][3], and `make`.
 
+[3]: https://www.terraform.io/downloads.html
+
 By default, the stack will deploy to `us-west-2`. To deploy it, run
 
 ```
